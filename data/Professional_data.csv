@@ -1,0 +1,65 @@
+﻿person_id,full_name,age,occupation,city,education,years_experience,annual_salary_eur,employment_type,industry,skills,remote_work_days_per_week,job_satisfaction_score,english_level,last_promotion_date
+P001,Lucía García,22,UX Designer,Barcelona,PhD,2,37000,Full-time,Design,User Research; Prototyping; Figma,3,1,A2,2019-01-19
+P002,Daniel Martínez,35,Sales Representative,Sevilla,Master,16,44000,Full-time,Sales,Negotiation; Lead Generation; Communication,4,5,A2,2019-10-16
+P003,Sofía López,42,Graphic Designer,Zaragoza,High School,8,28000,Full-time,Design,Branding; Adobe Illustrator; Typography,2,6,C2,2020-12-19
+P004,Hugo Sánchez,50,Data Analyst,Málaga,PhD,17,31000,Part-time,Technology,SQL; Python; Power BI,1,2,A2,2025-06-01
+P005,Valeria Rodríguez,,Accountant,Málaga,Vocational Training,2,35000,Full-time,Finance,Tax; Financial Reporting; SAP,2,6,B1,2025-07-08
+P006,Pablo Fernández,25,Teacher,Zaragoza,Bachelor,2,41000,Contract,Education,Communication; Lesson Planning; Digital Tools,5,9,B1,2025-09-05
+P007,Camila Gómez,24,Civil Engineer,Sevilla,PhD,1,58000,Contract,Engineering,Excel; Project Management; AutoCAD,5,6,B1,2025-05-08
+P008,Diego Pérez,46,Research Assistant,Bilbao,PhD,20,37000,Full-time,Research,Academic Writing; Data Collection; Python,3,10,C1,2022-01-22
+P009,Elena Ruiz,twenty-nine,Accountant,Valencia,Master,8,43000,Full-time,Finance,Excel; Tax; SAP,4,2,C1,2022-04-13
+P010,Mateo Díaz,54,Business Consultant,Málaga,High School,8,70000,Full-time,Consulting,Excel; Data Analysis; PowerPoint,2,7,B1,2023-02-02
+P011,Sara Moreno,37,Software Engineer,Valencia,Bachelor,16,43000,Contract,Technology,Python; SQL; Git,1,9,C2,2018-01-03
+P012,Álvaro Muñoz,52,Civil Engineer,Barcelona,High School,0,35000,Part-time,Engineering,Project Management; AutoCAD; Structural Analysis,5,8,A2,
+P013,Emma Álvarez,16,Product Manager,Sevilla,PhD,10,70000,Contract,Technology,Analytics; Stakeholder Management; Agile,5,4,B2,2022-06-23
+P014,Javier Romero,49,HR Specialist,Málaga,High School,16,41000,Full-time,Human Resources,Payroll; Recruiting; HRIS,4,9,B1,2024-08-07
+P015,Martina Alonso,21,Accountant,Barcelona,PhD,0,50000,Full-time,Finance,Excel; Tax; Financial Reporting,1,5,C1,
+P016,Adrián Gutiérrez,55,Sales Representative,Zaragoza,Vocational Training,4,48000,Contract,Sales,Communication; CRM; Negotiation,0,2,C1,2021-12-22
+P017,Nora Navarro,47, software engineer ,Málaga,High School,14,25000,Contract,Design,Adobe Illustrator; Typography; Photoshop,1,4,B1,2024-01-06
+P018,Marco Torres,29,Business Consultant,Alicante,PhD,6,46000,Part-time,Consulting,Strategy; Excel; Data Analysis,0,1,C2,2018-03-02
+P019,Claudia Domínguez,36,Machine Learning Engineer,Madrid,Vocational Training,5,64000,Part-time,Technology,Docker; scikit-learn; FastAPI,3,1,C1,2020-12-22
+P020,Bruno Vázquez,39,Business Consultant,Bilbao,Vocational Training,13,70000,Contract,Consulting,Strategy; Excel; Data Analysis,0,10,C2,2018-09-07
+P021,Irene Ramos,24,Civil Engineer,Barcelna,High School,0,50000,Contract,Engineering,Project Management; AutoCAD; Structural Analysis,4,2,B1,
+P022,Leo Gil,28,Customer Support Agent,Zaragoza,PhD,9,25000,Contract,Customer Service,CRM; Communication; Problem Solving,4,9,B2,2020-12-04
+P023,Aitana Serrano,41,Sales Representative,Alicante,Bachelor,7,33000,Part-time,Sales,Negotiation; Lead Generation; Communication,0,1,C1,2024-12-19
+P024,Álex Molina,25,UX Designer,Sevilla,Bachelor,3,46000,Part-time,Design,User Research; Accessibility; Figma,2,3,C1,2024-02-04
+P025,Marta Blanco,54,Nurse,Barcelona,High School,0,"€42,000",Full-time,Healthcare,Patient Care; Teamwork; Clinical Records,5,9,B1,
+P026,Carlos Suárez,39,Teacher,Alicante,Bachelor,19,30000,Contract,Education,Assessment; Lesson Planning; Communication,0,2,C1,2021-02-07
+P027,Paula Ortega,21,Data Analyst,Alicante,PhD,2,32000,Contract,Technology,Python; Excel; Statistics,5,7,C2,2018-02-09
+P028,David Delgado,25,UX Designer,Zaragoza,Vocational Training,2,47000,Full-time,Design,Prototyping; Accessibility; Figma,0,5,B2,2018-06-13
+P029,Laura Castro,34,HR Specialist,Sevilla,Vocational Training,7,N/A,Part-time,Human Resources,Communication; HRIS; Recruiting,1,7,A2,2020-01-05
+P030,Miguel Ortiz,47,Civil Engineer,Barcelona,Master,25,53000,Contract,Engineering,Project Management; Excel; AutoCAD,0,8,B1,2020-03-28
+P031,Ana Rubio,43,Business Consultant,Zaragoza,Bachelor,9,49000,Full-time,Consulting,Excel; Data Analysis; Strategy,2,2,B2,2021-12-09
+P032,Sergio Marín,55,Customer Support Agent,Madrid,High School,10,-5000,Full-time,Customer Service,Communication; CRM; Ticketing,4,7,B2,2026-03-04
+P033,Carmen Sanz,48,Civil Engineer,Bilbao,High School,19,48000,Full-time,Engineering,Excel; Structural Analysis; AutoCAD,5,7,A2,2023-10-31
+P034,Raúl Iglesias,44,Sales Representative,Barcelona,Bachelor,13,27000,Contract,Sales,Lead Generation; Communication; Negotiation,4,5,C1,2021-08-29
+P035,Julia Medina,39,Customer Support Agent,Valencia,PhD,17,24000,Full-time,Customer Service,Problem Solving; Communication; Ticketing,4,5,C1,2024-02-23
+P036,Iván Garrido,40,Software Engineer,Alicante,Master,9,350000,Part-time,Technology,FastAPI; JavaScript; SQL,3,4,C2,2023-04-23
+P037,Rocío Cortés,26,Marketing Specialist,Bilbao,Vocational Training,4,42000,Contract,Marketing,Google Analytics; SEO; CRM,1,3,A2,2018-07-09
+P038,Óscar Castillo,51,Accountant,Zaragoza,Master,19,52000,Full-time,Finance,Tax; Financial Reporting; Excel,3,4,B1,2025-05-11
+P039,Alba Santos,27,Software Engineer,Madrid,PhD,6,46000,Full-time,Technology,JavaScript; FastAPI; Docker,1,2,C1,2019-07-01
+P040,Rubén Lozano,54,Business Consultant,Valencia,Master,-2,55000,Part-time,Consulting,Strategy; Data Analysis; PowerPoint,3,5,B1,2025-02-24
+P041,Noa Guerrero,54,Teacher,Sevilla,Bachelor,15,31000,Part-time,Education,Digital Tools; Lesson Planning; Communication,2,6,C2,2018-11-27
+P042,Víctor Cano,30,Product Manager,Barcelona,Master,3,64000,Contract,Technology,Analytics; Agile; Roadmapping,3,6,C2,2023-03-24
+P043,Lola Prieto,24,Graphic Designer,Alicante,High School,40,37000,Full-time,Design,Adobe Illustrator; Branding; Photoshop,2,5,C1,2022-09-13
+P044,Gonzalo Méndez,52,Accountant,Málaga,Master,7,36000,Part-time,Finance,Tax; Excel; Financial Reporting,5,3,C1,2019-06-07
+P045,Inés Cruz,46,Software Engineer,Alicante,Vocational Training,18,33000,Full-time,Technology,JavaScript; Docker; Git,0,5,C1,2021-09-02
+P046,Samuel Calvo,50,Sales Representative,Barcelona,Master,10,35000,full time,Sales,Lead Generation; Negotiation; Communication,0,9,A2,2021-12-04
+P047,Alicia Vidal,25,Accountant,Sevilla,Vocational Training,0,52000,Internship,Finance,Financial Reporting; Excel; SAP,3,2,C2,
+P048,Fernando León,50,Sales Representative,Valencia,Bachelor,22,33000,Part-time,Sales,Negotiation; Lead Generation; CRM,0,10,A2,2021-07-01
+P049,Marina Rey,46,Customer Support Agent,Barcelona,PhD,22,25000,Full-time,Customer Service,"Ticketing, CRM, Problem Solving",0,6,C2,2022-10-21
+P050,Jaime Vega,25,HR Specialist,Málaga,Master,5,27000,Part-time,Human Resources,Communication; Recruiting; Payroll,5,3,C1,2019-12-23
+P051,Beatriz Campos,55,Teacher,Málaga,Vocational Training,24,39000,Part-time,Education,Digital Tools; Assessment; Communication,0,5,C1,2020-09-25
+P052,Tomás Nieto,57,Business Consultant,Valencia,Master,19,59000,Part-time,Consulting,Excel; PowerPoint; Data Analysis,7,6,B2,2021-10-26
+P053,Eva Cabrera,59,Teacher,Barcelona,Vocational Training,22,32000,Contract,Education,Lesson Planning; Assessment; Digital Tools,5,7,C1,2024-03-24
+P054,Lucas Pascual,51,Accountant,Bilbao,Vocational Training,20,50000,Part-time,Finance,Tax; Excel; SAP,3,4,B2,2025-06-12
+P055,Natalia Pastor,51,HR Specialist,Málaga,Master,17,43000,Part-time,Human Resources,Communication; HRIS; Payroll,2,11,B2,2020-08-02
+P056,Jorge Herrero,33,UX Designer,Alicante,Bachelor,10,33000,Contract,Design,User Research; Figma; Prototyping,5,10,C2,2024-09-10
+P057,Isabel Montero,27,Nurse,Madrid,PhD,3,36000,Full-time,Healthcare,Emergency Response; Patient Care; Clinical Records,1,5,A2,2018-08-12
+P058,Andrés Rojas,29,Nurse,Alicante,Master,10,42000,Full-time,Healthcare,Patient Care; Emergency Response; Clinical Records,3,6,b2,2018-07-30
+P059,Silvia Esteban,51,Teacher,Valencia,Vocational Training,3,26000,Part-time,Education,Digital Tools; Lesson Planning; Assessment,4,5,A2,2020-10-13
+P060,Manuel Parra,56,UX Designer,Alicante,Master,24,43000,Contract,Design,User Research; Prototyping; Accessibility,2,10,C1,2025-13-01
+P061,Cristina Gallego,27,Data Analyst,Sevilla,Vocational Training,3,48000,Full-time,Technology,Python; SQL; Power BI,4,2,B1,2018-01-11
+P062,Alejandro Fuentes,49,Graphic Designer,Bilbao,Bachelor,22,43000,Part-time,Design,Branding; Adobe Illustrator; Typography,5,8,A2,2027-05-20
+P063,Patricia Pardo,37,,Valencia,Bachelor,18,49000,Full-time,Finance,Tax; Excel; SAP,1,2,A2,2019-11-11
+P063,Ricardo Soler,59,Nurse,Bilbao,Master,23,45000,Part-time,Healthcare,Teamwork; Patient Care; Clinical Records,2,9,C2,2023-07-16
